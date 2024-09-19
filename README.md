@@ -1,6 +1,6 @@
 # Conditional-Based-Monitoring-System
 
-Conditional based monitoring system - Tunnel Booster Fan Present for SMART INDIA HACKATHON 2024
+Conditional based monitoring system - Tunnel Booster Fan - Present for SMART INDIA HACKATHON 2024
 
 Problem Statement ID - SH1583
 
